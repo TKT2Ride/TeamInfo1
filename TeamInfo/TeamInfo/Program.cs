@@ -15,6 +15,11 @@ namespace TeamInfo
         //And Delete a part of another teammate's code
         static void Main(string[] args)
         {
+            Console.WriteLine("Ryan Thom");
+            Console.WriteLine("Oconomowoc High School");
+            Console.WriteLine("A Baseball");
+            Console.WriteLine();
+            Console.ReadLine();
 
         }
     }
