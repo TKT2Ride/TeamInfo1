@@ -15,7 +15,7 @@ namespace TeamInfo
         //And Delete a part of another teammate's code
         static void Main(string[] args)
         {
-
+            Console.Write("Alijah Perez, New Berlin West High/ Waukesha County Technical COllege, I'm not sure I've probably forgotten it.");
         }
     }
 }
