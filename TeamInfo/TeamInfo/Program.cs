@@ -18,8 +18,8 @@ namespace TeamInfo
             Console.Write("Alijah Perez, New Berlin West High/ Waukesha County Technical COllege, I'm not sure I've probably forgotten it.");
             Console.WriteLine("Ryan Thom");
             Console.WriteLine("Oconomowoc High School");
-            Console.WriteLine();
             Console.WriteLine("A Baseball");
+            Console.WriteLine("Ammar Ahmed, Brookfield Central High School, A game I already had");
             Console.ReadLine();
         }
     }
