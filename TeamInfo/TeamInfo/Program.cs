@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,10 +16,11 @@ namespace TeamInfo
         static void Main(string[] args)
         {
             Console.Write("Alijah Perez, New Berlin West High/ Waukesha County Technical COllege, I'm not sure I've probably forgotten it.");
+            Console.WriteLine();
             Console.WriteLine("Ryan Thom");
             Console.WriteLine("Oconomowoc High School");
-            Console.WriteLine();
             Console.WriteLine("A Baseball");
+            Console.WriteLine();
             Console.ReadLine();
         }
     }
