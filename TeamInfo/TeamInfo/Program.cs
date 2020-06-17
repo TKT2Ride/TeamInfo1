@@ -20,7 +20,7 @@ namespace TeamInfo
             Console.WriteLine("Ryan Thom");
             Console.WriteLine("Oconomowoc High School");
             Console.WriteLine("A Baseball");
-            Console.WriteLine();
+            Console.WriteLine("Ava Jorgensen, Brookfield Central High School, A deck of cards");
             Console.ReadLine();
         }
     }
